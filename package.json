@@ -1,20 +1,17 @@
 {
   "name": "atom-project-links",
   "main": "./lib/atom-project-links",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "displayName": "Project Links",
   "description": "A dead-simple package to make project:// links work how you would expect",
-  "keywords": [
-  ],
-  "activationCommands": {
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/KyleDavidE/atom-project-links",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "hyperclick": {
       "versions": {

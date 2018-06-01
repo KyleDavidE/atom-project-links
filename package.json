@@ -1,0 +1,25 @@
+{
+  "name": "atom-project-links",
+  "main": "./lib/atom-project-links",
+  "version": "0.0.0",
+  "displayName": "Project Links",
+  "description": "A dead-simple extension to make project:// links work how you would expect",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/atom/atom-project-links",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "providedServices": {
+    "hyperclick": {
+      "versions": {
+        "0.1.0": "getLinkProvider"
+      }
+    }
+  }
+}

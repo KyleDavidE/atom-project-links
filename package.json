@@ -3,7 +3,7 @@
   "main": "./lib/atom-project-links",
   "version": "0.0.0",
   "displayName": "Project Links",
-  "description": "A dead-simple extension to make project:// links work how you would expect",
+  "description": "A dead-simple package to make project:// links work how you would expect",
   "keywords": [
   ],
   "activationCommands": {

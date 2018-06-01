@@ -12,6 +12,6 @@ Requires atom-ide-ui or hyperclick
 
 ## changelog
 
-### 1.0.0
+### 0.1.0
 
-* initial commit
+* initial release

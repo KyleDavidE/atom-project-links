@@ -13,7 +13,7 @@ Requires atom-ide-ui or hyperclick
 ## changelog
 
 
-### 0.1.1
+### 0.2.1
 
 * fix broken readme
 

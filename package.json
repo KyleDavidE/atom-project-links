@@ -18,5 +18,12 @@
         "0.1.0": "getLinkProvider"
       }
     }
+  },
+  "configSchema": {
+    "alwaysOpenExisting": {
+      "type": "boolean",
+      "default": false,
+      "description": "When opening a clicking a link, always focus an already-existing view of the file even if it's in a another pane."
+    }
   }
 }

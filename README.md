@@ -1,4 +1,4 @@
-# atom project links
+# [atom project links](https://atom.io/packages/atom-project-links)
 
 makes 'project://' links work relative to the containing project root.
 
@@ -10,8 +10,13 @@ ex: project://package.json
 
 Requires atom-ide-ui or hyperclick
 
+Compatible with [this vs code plugin](https://marketplace.visualstudio.com/items?itemName=KyleDavidE.vscode-project-links)
+
 ## changelog
 
+### 0.2.2
+
+* add line number support via `...#line[,column]`
 
 ### 0.2.1
 
